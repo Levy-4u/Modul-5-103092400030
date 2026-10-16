@@ -13,15 +13,15 @@ Grid digunakan untuk mengatur tampilan sesuai dengan ukuran layar dari perangkat
 
 4.	Class Bootstrap [10 poin] 
 Sebutkan minimal lima class yang disediakan oleh Bootstrap beserta kegunaannya!
-  A.Container: Menyediakan pembungkus (wrapper) dengan lebar responsive yang berfungsi memusatkan konten di tengah halaman.
+      A.Container: Menyediakan pembungkus (wrapper) dengan lebar responsive yang berfungsi memusatkan konten di tengah halaman.
 
-  B.row: Membuat sistem baris untuk pembungkus kolom dalam tata letak (grid sistem)
+      B.row: Membuat sistem baris untuk pembungkus kolom dalam tata letak (grid sistem)
 
-  C.text-center: Mengatur perataan teks menjadi rata tengah secara cepat pada elemen.
+      C.text-center: Mengatur perataan teks menjadi rata tengah secara cepat pada elemen.
 
-  D.col-md-6: Mengatur ukuran kolom pada grid sistem. Class ini membutuhkan kolom memakan setengah layar pada perangkat berukuran sedan ke atas.
+      D.col-md-6: Mengatur ukuran kolom pada grid sistem. Class ini membutuhkan kolom memakan setengah layar pada perangkat berukuran sedan ke atas.
 
-  E.btn-primary: Mengubah elemen tombol atau tautan menjadi tombol standar berwarna biru khas Bootstrap.
+      E.btn-primary: Mengubah elemen tombol atau tautan menjadi tombol standar berwarna biru khas Bootstrap.
 
 5. Gambar Responsif [10 poin] 
 Bagaimana cara agar foto atau gambar pada website responsif menyesuaikan ukuran layar perangkat?
